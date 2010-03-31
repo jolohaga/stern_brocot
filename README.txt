@@ -4,7 +4,7 @@
 
 == Description:
 
-Generates Stern-Brocot tree and series.
+Generate Stern-Brocot fractions, trees and series.
 
 == Features/Problems:
 
@@ -12,8 +12,17 @@ Generates Stern-Brocot tree and series.
 
 == Synopsis:
 
-  require 'stern_brocot'  
-  include SternBrocot
+=== Using Fraction
+
+See SternBrocot::Fraction
+  
+=== Using Tree
+
+See SternBrocot::Tree
+
+=== Using Series
+
+See SternBrocot::Series
   
 == Requirements:
 

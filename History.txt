@@ -1,3 +1,15 @@
+=== 1.1.0 / 2010-03-31
+
+* Added documentation.
+* Exchanged relationship of Fraction#+ and Fraction#mediant.
+* Added class Series.
+
+=== 1.0.0 / 2010-03-30
+
+* Initial dev.
+* Created the classes Tree and Fraction.
+* Added the + and to_* methods to the Fraction class.
+
 === 0.0.1 / 2010-03-13
 
 * Initial Release of SternBrocot
