@@ -1,3 +1,11 @@
+=== 2.0.0 / 2010-04-03
+
+* Created dependency on Matrix.  Considering alternatives.
+* Pushed some Fraction methods into Matrix.  Considering alternatives.
+* Created alternate initialization methods for Fraction new_with_s, new_with_m
+* Created map_s
+
+
 === 1.1.0 / 2010-03-31
 
 * Added documentation.

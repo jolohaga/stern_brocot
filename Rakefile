@@ -2,8 +2,8 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('stern_brocot', '0.1.0') do |config|
-  config.summary                  = 'Generate the Stern-Brocot tree and series.'
+Echoe.new('stern_brocot', '2.0.0') do |config|
+  config.summary                  = 'Generate the Stern-Brocot fractions, trees and series.'
   config.author                   = 'Jose Hales-Garcia'
   config.url                      = 'http://github.com/jolohaga/stern_brocot'
   config.email                    = 'jolohaga@me.com' 
